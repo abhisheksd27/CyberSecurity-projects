@@ -266,3 +266,4 @@ cat $REPORT
 - **Privilege escalation prep:** Identifies kernel, users, groups, environment variables, and potential misconfigurations.
     
 - **Efficiency:** Script automation avoids human error and speeds up recon.
+
