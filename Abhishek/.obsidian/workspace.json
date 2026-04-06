@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "0ef115ae8975e9f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf75da051bccb71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f34982c7e1af4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber security/LINUX projects/System finger print scripts/System finger print scripts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System finger print scripts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad9438b3882f64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da6c36f73e9436b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497afa043b8747ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "982ff51b809d44ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4b3d8db8bb628d55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "073635b8c7aa9ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "65756cf9fc249fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab445a18a7eedfa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7171a5fd07825747",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ce67113d4c66a45e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a59d6d1965c150a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca9bfba9276bbdb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c1f34982c7e1af4b",
+  "lastOpenFiles": [
+    "Cyber security/cyber security analyst/4.Linux fundamentals/7.Linux distribution vs solaris/Solaris.md",
+    "Cyber security/LINUX projects/System finger print scripts/System finger print scripts.md",
+    "Cyber security/LINUX projects/System finger print scripts",
+    "Cyber security/LINUX projects",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/6. Linux hardening/3.System Logs.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/6. Linux hardening/2.Linux Security.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/6. Linux hardening/1.Firewall Setup.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/5.Linux networking/2.Remote Desktop Protocols in Linux.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/5.Linux networking/1.Network Configuration.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/9.Containerization.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/8.File System Management.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/7.Backup and Restore.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/8.tips and tricks/Shortcuts.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/6.Working with Web Services.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/5.Network Services.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/4.Task Scheduling.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/3.Service and Process Management.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/2.Package Management.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management/1.User Management.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/8.Permission Management.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/7.Regular Expressions.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/6.Filter Contents.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/5.File Descriptors and Redirections.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/4.Find Files and Directories.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/3.Editing Files.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow/2.Working with Files and Directories.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/2.The Shell/3.System Information.md",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/2.The Shell/2.Getting Help.md",
+    "Pasted image 20260331144526.png",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/8.tips and tricks",
+    "Pasted image 20260320220148.png",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/7.Linux distribution vs solaris",
+    "Pasted image 20260320215937.png",
+    "Pasted image 20260320215033.png",
+    "Pasted image 20260320214937.png",
+    "Pasted image 20260320214635.png",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/6. Linux hardening",
+    "Pasted image 20260320213850.png",
+    "Pasted image 20260320213829.png",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/5.Linux networking",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/2.The Shell/Untitled",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/4.System Management",
+    "Cyber security/cyber security analyst/4.Linux fundamentals/3.Workflow",
+    "Pasted image 20260310195802.png",
+    "Pasted image 20260310195649.png",
+    "Cyber security/Ethical hacking/Networking/Ip address",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
